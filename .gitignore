@@ -1,0 +1,17 @@
+# General
+*.DS_Store
+.AppleDouble
+.LSOverride
+*.aux
+*.log
+*.aux
+*.bbl
+*.blg
+*.log
+*.fdb_latexmk
+*.fls
+*.out
+*.swp
+*.synctex.gz
+*Notes.bib
+maxisi_edsu2020.pdf
