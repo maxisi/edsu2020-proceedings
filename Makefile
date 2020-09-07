@@ -5,7 +5,7 @@
 
 NAME = maxisi_edsu2020
 
-BIBLIO = ligo.bib spins.bib
+BIBLIO = ligo.bib nr.bib
 
 TEXFILES = $(NAME).tex
 
